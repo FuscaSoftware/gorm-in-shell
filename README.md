@@ -1,2 +1,6 @@
 # gorm-in-shell
 gorm in a groovy shell-script
+
+
+## source/inspiration
+http://daviddawson.me/blog/2017/09/06/groovy-gorm-shell-script.html
